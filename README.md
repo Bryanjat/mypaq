@@ -10,10 +10,12 @@ The goal of mypaq is to …
 
 ## Installation
 
-You can install the development version of mypaq like so:
+You can install the development version of mypaq from
+[GitHub](https://github.com/) with:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# install.packages("pak")
+pak::pak("Bryanjat/mypaq")
 ```
 
 ## Example
